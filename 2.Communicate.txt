@@ -1,0 +1,7 @@
+Recently I explained my work to my roommates after completing my research project and thesis. 
+
+Since the project had numerous steps and technical details, I used multiple aids in doing so.
+
+I started with dividing the whole pipeline into different steps. I showed the required input and the final result that is expected from this particular input. Since I was working with images I was able to easily show the expected input that were to be inserted into the system. The intermediatory steps were explained verbally on how the system calculates certain values to obtain the required photo realistic renderings as outputs. The results were also obtained as a video which helped in the explanation.
+
+The challenges were also discussed including the processing time, accuracy and memory requirements. Also the useful usecase scenarios were also made aware.

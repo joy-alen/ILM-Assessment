@@ -1,0 +1,14 @@
+Big O notation is used for the analysis of the efficiency of an algorithm, by classifying the algorithm according to their time and space requirements with respect to the input size.
+
+Big O is used because:
+1. Complexity shown in terms of input size.
+2. Machine independent.
+3. Described in basic computer steps.
+4. Describes the time and space requirements for the algorithm.
+
+Types of measurements associated with Big O : 
+1.Worst-case
+2.Best case
+3.Average case
+
+Worst-case is mainly used when talking about Big O since it gives an upper bounnd on the resources requied by the system.
